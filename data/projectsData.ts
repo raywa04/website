@@ -8,8 +8,11 @@ interface Project {
 const projectsData: Project[] = [
   {
     title: 'HackPortal',
-    description: `A managerial system used by Hackathon officers and hackers alike. From scheduling events to QR code check ins,
-    HackPortal is a versatile, efficient Hackathon management system open to all!`,
+    description: `Introducing HackPortal - your go-to platform for seamless hackathon event management! Customize your event's interface with ease, offer secure sign-in options via email or Google, and streamline hacker registration. Our dynamic content management system effortlessly handles images, challenges, sponsors, and FAQs, while push notifications keep participants engaged.
+
+    Highlight ongoing events with our spotlight carousel, and simplify logistics with QR code check-in and swag claims. Facilitate communication through report submission and Q&A features. With a built-in schedule and role-based access control, managing your event has never been easier.
+    
+    Our admin console lets you send announcements, update user roles, and track key metrics. Built with React, NextJS, JavaScript, TypeScript, and deployed on Vercel with Firebase integration, HackPortal ensures a smooth and scalable performance.`,
     imgSrc: '/static/images/hackportal.png',
     href: 'https://hackportal.hackutd.co',
   },
