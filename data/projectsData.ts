@@ -7,20 +7,19 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'HackPortal',
+    description: `A managerial system used by Hackathon officers and hackers alike. From scheduling events to QR code check ins,
+    HackPortal is a versatile, efficient Hackathon management system open to all!`,
+    imgSrc: '/static/images/hackportal.png',
+    href: 'https://hackportal.hackutd.co',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Customer Assistance Chatbot',
+    description: `Leveraged Python, Pytorch, and a pre-trained Hugging Face's BERT model to develop a customer friendly chatbot.
+    Just feed the assistant pdf files that contains the info you want the chatbot to answer, and you have a customer assistant ready to help
+    online visitors with their needs!`,
+    imgSrc: '/static/images/epsoft.png',
+    href: 'https://github.com/raywa04/Customer-Assistance-Bot',
   },
 ]
 
