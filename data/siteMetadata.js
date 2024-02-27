@@ -1,6 +1,6 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'RAYWA04',
   author: 'Rayyan Waris',
   headerTitle: 'Personal Website',
   description: 'A website all about me :) created with Next.js and Tailwind.css',
@@ -10,9 +10,9 @@ const siteMetadata = {
   siteRepo: 'https://github.com/raywa04/tailwind-css-starter-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'raywa04@yoursite.com',
+  email: 'raywa04@gmail.com',
   github: 'https://github.com/raywa04',
-  linkedin: 'www.linkedin.com/in/rayyan-waris-b6821020b',
+  linkedin: 'https://www.linkedin.com/in/rayyan-waris-b6821020b',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
