@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'RAYWA04',
   author: 'Rayyan Waris',
-  headerTitle: 'Personal Website',
+  headerTitle: 'Home',
   description: 'A website all about me :) created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
