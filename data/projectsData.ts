@@ -18,9 +18,11 @@ const projectsData: Project[] = [
   },
   {
     title: 'Customer Assistance Chatbot',
-    description: `Leveraged Python, Pytorch, and a pre-trained Hugging Face's BERT model to develop a customer friendly chatbot.
-    Just feed the assistant pdf files that contains the info you want the chatbot to answer, and you have a customer assistant ready to help
-    online visitors with their needs!`,
+    description: `Utilizing Python, PyTorch, and the pre-trained Hugging Face's BERT model, we've developed a customer-friendly chatbot that's revolutionizing online customer assistance. Simply feed the assistant PDF files containing the information you want the chatbot to address, and voila! You have a fully equipped customer assistant ready to cater to online visitors' needs.
+
+    Our chatbot seamlessly integrates advanced natural language processing techniques to understand and respond to customer queries effectively. Whether it's product information, troubleshooting assistance, or general inquiries, our chatbot is equipped to provide accurate and timely support.
+    
+    Experience the future of online customer service with our innovative chatbot solution.`,
     imgSrc: '/static/images/epsoft.png',
     href: 'https://github.com/raywa04/Customer-Assistance-Bot',
   },
@@ -29,7 +31,7 @@ const projectsData: Project[] = [
     description: `Harnessing the power of Java and Apache Maven, we've crafted a dynamic program designed to revolutionize the way charts, graphs, 
     and tables are updated within PowerPoint presentations. Our innovative solution not only streamlines the process but also ensures unparalleled 
     accuracy and relevance, elevating the quality of your presentations to new heights. Say goodbye to manual updates and hello to efficiency with 
-    our cutting-edge automated solution. `,
+    our cutting-edge automated solution!`,
     imgSrc: '/static/images/powerpoint.png',
     href: 'https://github.com/raywa04/Data-Chart-Automation-Bot',
   },
